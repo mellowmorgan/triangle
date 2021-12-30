@@ -1,8 +1,8 @@
-# {Application Name}
+# Triangle Tracker
 
-#### Created By _**{Name}**_
+#### Created By Morgan Waites and Frank Proulx
 
-#### _An application to_
+#### Website to determine type of triangle, if a triangle at all!
 
 ## Technologies Used
 
@@ -13,24 +13,20 @@
 
 ## Description
 
-_This project was created for Epicodus bootcamp to show proficiency in. The application is for . The user can ._
+User enters sides and it calculates type of triangle.
 
 ## Setup/Installation Requirements
 
 * _Clone the GitHub [repository]({github repository}) or download and open the Zip on your local machine.
+* Type bundle install
+* Run tests with rspec
+* To run website enter ruby app.rb
 
 ## Known Bugs
 
-_None at this time_
-
-## Future Updates
-
-* __
+No known bugs.
 
 ## License
 
 _[MIT](https://opensource.org/licenses/MIT)_
-Copyright (c) _2021_ _{Name}_
-
-## Support and Contact Details
-* _[{email}](mailto:{email})_
+Copyright (c) _2021_ _Morgan Waites and Frank Proulx_
